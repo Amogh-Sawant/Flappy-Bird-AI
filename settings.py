@@ -23,7 +23,7 @@ px = window_wd
 
 # misc
 reset = False
-gap = 150
+gap = 200
 velocity_x = 1.5
 velocity_y = -2
 h = random.randint(20, window_len-gap-20)
